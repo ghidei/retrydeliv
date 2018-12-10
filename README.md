@@ -39,4 +39,4 @@
 
 9. Run ldfi-akka
 
-	`sbt "ldfiakka/runMain ldfi.akka.Main -m src/main/scala/finiteretrydeliv/Main.scala -v src/main/scala/finiteretrydeliv/Main.scala verifyCorrectness"`
+	`sbt "ldfiakka/runMain ldfi.akka.Main -m src/main/scala/retrydeliv/Main.scala -v src/main/scala/retrydeliv/Main.scala verifyCorrectness"`
